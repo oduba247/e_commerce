@@ -1,0 +1,13 @@
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+   
+}
+.button button{
+    width: 9rem;
+    height: 8vh;
+    background-color: rgb(156, 202, 202);
+    color: black;
+    border: none;
+}
